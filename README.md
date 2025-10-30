@@ -1,4 +1,4 @@
-# Hello 11ty!
+# Hello 11ty
 
 Oh hi! Welcome to your new blog. 🎡
 
@@ -10,14 +10,16 @@ This project is powered by [Eleventy](https://www.11ty.dev/), a lightweight stat
 
 ## In this doc
 
-* [Fork your own blog](#fork-your-own-blog)
-* [Get to know your blog](#get-to-know-your-blog)
-  * [Share your draft site](#share-your-draft-site)
-* [Deploy your blog to Fastly Compute](#deploy-your-blog-to-fastly-compute)
-* [Save your edits to GitHub](#save-your-edits-to-github)
-* [How this project works](#how-this-project-works-)
-  * [Extensions](#extensions)
-* [Keep going! 🚀](#keep-going-)
+- [Hello 11ty](#hello-11ty)
+  - [In this doc](#in-this-doc)
+  - [Fork your own blog](#fork-your-own-blog)
+  - [Get to know your blog](#get-to-know-your-blog)
+    - [Share your draft site](#share-your-draft-site)
+  - [Deploy your blog to Fastly Compute](#deploy-your-blog-to-fastly-compute)
+  - [Save your edits to GitHub](#save-your-edits-to-github)
+  - [How this project works 🧐](#how-this-project-works-)
+    - [Extensions](#extensions)
+  - [Keep going! 🛸](#keep-going-)
 
 ## Fork your own blog
 
